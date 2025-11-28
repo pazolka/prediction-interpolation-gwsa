@@ -1,0 +1,31 @@
+name: predipolgwsa
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.11.9
+  - xarray=2025.4.0
+  - geopandas=0.14.4
+  - rioxarray=0.15.5
+  - matplotlib=3.8.4
+  - jupyterlab=4.2.5
+  - netcdf4=1.6.5
+  - dask=2024.5.1
+  - tensorflow=2.15.0
+  - scikit-learn=1.5.0
+  - xskillscore=0.0.26
+  - seaborn=0.13.2
+  - cpuonly=2.0
+  - pytorch=2.3.1
+  - torchaudio=2.3.1
+  - torchvision=0.18.1
+  - plotly=5.22.0
+  - earthengine-api=0.1.412
+  - geoplot=0.5.1
+  - imageio=2.34.2
+  - xee=0.0.20
+  - sktime=0.33.0
+  - ipympl=0.9.4
+  - pykrige=1.7.2
+  - scikit-gstat=1.0.19
+  - conda-forge::gstools
