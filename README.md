@@ -71,11 +71,11 @@ The setup used for generating the published outputs can be found in `data/Bangla
 
 [4] Save, H., S. Bettadpur, and B.D. Tapley (2016), High resolution CSR GRACE RL05 mascons, J. Geophys. Res. Solid Earth, 121, doi:10.1002/2016JB013007.
 
-[5] Save, Himanshu, 2020, "CSR GRACE and GRACE-FO RL06 Mascon Solutions v02", doi: 10.15781/cgq9-nh24.
+[5] Save, Himanshu (2020), CSR GRACE and GRACE-FO RL06 Mascon Solutions v02, doi: 10.15781/cgq9-nh24.
 
-[6] Abatzoglou, J.T., S.Z. Dobrowski, S.A. Parks, K.C. Hegewisch, 2018, Terraclimate, a high-resolution global dataset of monthly climate and climatic water balance from 1958-2015, Scientific Data 5:170191, doi:10.1038/sdata.2017.191
+[6] Abatzoglou, J.T., S.Z. Dobrowski, S.A. Parks, K.C. Hegewisch (2018) Terraclimate, a high-resolution global dataset of monthly climate and climatic water balance from 1958-2015, Scientific Data 5:170191, doi:10.1038/sdata.2017.191
 
-[7] Didan, Kamel, MODIS/Terra Vegetation Indices Monthly L3 Global 1km SIN Grid V061. NASA Land Processes Distributed Active Archive Center, 2021, doi:10.5067/MODIS/MOD13A3.061. Date Accessed: 2025-11-28
+[7] Didan, Kamel (2021), MODIS/Terra Vegetation Indices Monthly L3 Global 1km SIN Grid V061. NASA Land Processes Distributed Active Archive Center, doi:10.5067/MODIS/MOD13A3.061. Date Accessed: 2025-11-28
 
 [8] Mohammad Shamsudduha et al. (2022), The Bengal Water Machine: Quantified freshwater capture in Bangladesh. Science 377,1315-1319, doi:10.1126/science.abm4730.
 
